@@ -1,3 +1,3 @@
 # bot manager
 
-Download `bots.exe` from [Releases](../../releases/latest). It updates itself.
+download `bots.exe` from [Releases](../../releases/latest). it updates itself.
